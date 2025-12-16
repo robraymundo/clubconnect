@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin\AdminClubListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\CreateClubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\ManageMembersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\MembersPerClubForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\PaymentRequestsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\ClubListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\MembershipInfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\PaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User\UserDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

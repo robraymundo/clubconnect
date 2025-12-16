@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\adet\\ClubMembership\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|d:\\downloads\\adet\\clubmembership\\admin\\paymentrequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|solutionrelative:admin\\paymentrequestsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|d:\\downloads\\adet\\clubmembership\\user\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|solutionrelative:user\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|D:\\Downloads\\adet\\ClubMembership\\user\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|solutionrelative:user\\paymentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|D:\\Downloads\\adet\\ClubMembership\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31D507E1-297A-FB3C-5204-8F251E6F96BE}|ClubMembership.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentRequestsForm.cs",
+              "DocumentMoniker": "D:\\Downloads\\adet\\ClubMembership\\Admin\\PaymentRequestsForm.cs",
+              "RelativeDocumentMoniker": "Admin\\PaymentRequestsForm.cs",
+              "ToolTip": "D:\\Downloads\\adet\\ClubMembership\\Admin\\PaymentRequestsForm.cs",
+              "RelativeToolTip": "Admin\\PaymentRequestsForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:18:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentForm.cs",
+              "DocumentMoniker": "D:\\Downloads\\adet\\ClubMembership\\User\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "User\\PaymentForm.cs",
+              "ToolTip": "D:\\Downloads\\adet\\ClubMembership\\User\\PaymentForm.cs",
+              "RelativeToolTip": "User\\PaymentForm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwKMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:13:34.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\adet\\ClubMembership\\User\\PaymentForm.cs",
+              "RelativeDocumentMoniker": "User\\PaymentForm.cs",
+              "ToolTip": "D:\\Downloads\\adet\\ClubMembership\\User\\PaymentForm.cs [Design]",
+              "RelativeToolTip": "User\\PaymentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:13:30.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\adet\\ClubMembership\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "D:\\Downloads\\adet\\ClubMembership\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T02:02:07.784Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
